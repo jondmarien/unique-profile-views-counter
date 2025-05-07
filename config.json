@@ -3,6 +3,9 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "d-sports-native",
+    "d-sports-pwa",
+    "tuneflow",
+    "judgeflow"
   ]
 }
